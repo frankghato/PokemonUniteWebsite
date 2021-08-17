@@ -1,0 +1,3 @@
+add rest of pokemon
+add tutorials pages
+add tabs to playable characters page for roles and attack types
