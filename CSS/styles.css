@@ -120,6 +120,7 @@ nav a:hover
     padding-top:20px;
     margin-left: auto;
     margin-right: auto;
+
  
 }
 
@@ -492,3 +493,20 @@ a:hover
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #5CDB95;}
+
+  .pokemonFlavorBox
+  {
+    background-color: lightgrey;
+    width: 90%;
+    border: 15px solid #462496;
+    background: #5e32a8;
+    padding: 50px;
+    margin: 20px;
+    margin-top:150px;
+    color: white;
+  }
+
+  .pokemonFlavorText
+  {
+      float:right;
+  }
